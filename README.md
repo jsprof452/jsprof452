@@ -1,14 +1,15 @@
 Hi 👋 My name is Jakson Sanders
 ===============================
 
-Student
+Graduate
 -------
 
-I am currently in my fourth year at Eastern Washington University, studying to be a software engineer. My hobbies include rock climbing, playing video games, and soccer. My professional goal is to work alongside a like-minded team to create software that will make a significant impact in people's lives.
+**EDIT ME**I am currently in my fourth year at Eastern Washington University, studying to be a software engineer. My hobbies include rock climbing, playing video games, and soccer. My professional goal is to work alongside a like-minded team to create software that will make a significant impact in people's lives.
 
 * 🌍  I'm based in Richland, WA
-* ✉️  You can contact me at [jsanders25@ewu.edu](mailto:jsanders25@ewu.edu)
-* 🧠  I'm learning front-end web development
+* ✉️  You can contact me at [jsprof452@gmail.com](mailto:jsprof452@gmail.com)
+* 🧠  I'm learning web development
+* 🏫  My school github: [https://github.com/jsanders25](https://github.com/jsanders25)
 
 ### Tools
 
@@ -26,20 +27,20 @@ I am currently in my fourth year at Eastern Washington University, studying to b
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36"/>
 
 ### Scripting Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36"/>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36"/></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36"/></p>
 
 ### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" height="36"/>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" height="36"/></p>
+<p><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></p>
 
 ### Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36"/>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36" height="36"/></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" height="36"/></p>
 
 ### Markup Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="36" height="36"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="36" height="36"/>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" width="36" height="36"/></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="36" height="36"/></p>
 
 ### Socials
 
